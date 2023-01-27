@@ -10,3 +10,4 @@ example/public/docs
 /html/
 /.idea
 Gemfile.lock
+.DS_Store
