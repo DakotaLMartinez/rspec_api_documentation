@@ -17,7 +17,7 @@ Please see the wiki for latest [changes](https://github.com/zipmark/rspec_api_do
 
 Add rspec_api_documentation to your Gemfile
 
-    gem 'rspec_api_documentation'
+    gem 'rspec_api_documentation', git: 'git@github.com:DakotaLMartinez/rspec_api_documentation.git'
 
 Bundle it!
 
